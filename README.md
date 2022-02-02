@@ -15,6 +15,7 @@ MATLAB GUI for fitting ultra-wideline quadrupolar NMR patterns using field-stepp
 - Can simulate any number of evenly-spaced field increments; the simulated increments are attenuated by a window function 
 - Two site simulations
 - Can overlay an experimental spectrum if it is pre-processed as a .mat file 
+- spec.mat is an pre-processed spectrum that is included as an example (Use a 20 MHz spectral window and 0 Hz offset)
 
 ## Citing
 If you use the GUI please cite the following:
