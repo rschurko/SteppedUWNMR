@@ -14,6 +14,7 @@ MATLAB GUI for fitting ultra-wideline quadrupolar NMR patterns using field-stepp
 - Simulate central transition NMR patterns of half-integer quadrupolar nuclei acquired with incremented field strength
 - Can simulate any number of evenly-spaced field increments; the simulated increments are attenuated by a window function 
 - Two site simulations
+- Can include satellite transitions (ST) for common isotope pairs such as 35Cl/37Cl and 79Br/81Br
 - Can overlay an experimental spectrum if it is pre-processed as a .mat file 
 - spec.mat is a pre-processed spectrum that is included as an example (use a 20 MHz spectral window and 0 Hz offset)
 
